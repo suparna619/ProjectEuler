@@ -1,1 +1,6 @@
 D:\ProjectEuler\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.exe.config
+D:\ProjectEuler\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.exe
+D:\ProjectEuler\MultiplesOf3And5\MultiplesOf3And5\bin\Debug\MultiplesOf3And5.pdb
+D:\ProjectEuler\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.csprojResolveAssemblyReference.cache
+D:\ProjectEuler\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.exe
+D:\ProjectEuler\MultiplesOf3And5\MultiplesOf3And5\obj\Debug\MultiplesOf3And5.pdb
