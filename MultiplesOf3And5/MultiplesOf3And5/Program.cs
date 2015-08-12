@@ -15,8 +15,11 @@ namespace MultiplesOf3And5
 //            Console.WriteLine(SumOfTheMultiplesOf3And5.SumOfTheMultiplesOf3And5BelowRange(1000));
 
             /*Sum Of Even Valued Terms In TheFibonaccy Series where term is less than Four Million*/
-            var sumOfFibonaccySeries = new SumOfFibonaccySeries();
-            Console.WriteLine(sumOfFibonaccySeries.SumOfEvenValuedTermsInTheFibonaccySeriesLessThanFourMillion());
+//            var sumOfFibonaccySeries = new SumOfFibonaccySeries();
+//            Console.WriteLine(sumOfFibonaccySeries.SumOfEvenValuedTermsInTheFibonaccySeriesLessThanFourMillion());
+
+            var largestPrimeFactor = new LargestPrimeFactor();
+            Console.WriteLine(largestPrimeFactor.FindLargestPrimeFactor(600851475143));
             Console.ReadLine();
         }
     }
