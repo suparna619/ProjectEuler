@@ -18,8 +18,12 @@ namespace MultiplesOf3And5
 //            var sumOfFibonaccySeries = new SumOfFibonaccySeries();
 //            Console.WriteLine(sumOfFibonaccySeries.SumOfEvenValuedTermsInTheFibonaccySeriesLessThanFourMillion());
 
-            var largestPrimeFactor = new LargestPrimeFactor();
-            Console.WriteLine(largestPrimeFactor.FindLargestPrimeFactor(600851475143));
+//            var largestPrimeFactor = new LargestPrimeFactor();
+//            Console.WriteLine(largestPrimeFactor.FindLargestPrimeFactor(600851475143));
+
+
+            var smallestMultiple = new SmallestMultiple();
+            Console.WriteLine(smallestMultiple.FindSmallestMultipleBetween1To20());
             Console.ReadLine();
         }
     }

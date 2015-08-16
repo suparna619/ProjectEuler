@@ -45,6 +45,7 @@
     <Compile Include="MultipleOf3And5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SmallestMultiple.cs" />
     <Compile Include="SumOfFibonaccySeries.cs" />
   </ItemGroup>
   <ItemGroup>
